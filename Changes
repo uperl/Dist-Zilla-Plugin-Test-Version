@@ -1,6 +1,9 @@
 Revision history for Dist-Zilla-Plugin-Test-Version
 
 {{$NEXT}}
+  - Make this test an author test rather than a release test. This is a test
+    you want passing on every commit, not just before a release. GH #4 [Dave
+    Rolsky]
 
 1.02      2015-05-12
   - Restore friendlieness with Test::EOL when filename_match is not used.
