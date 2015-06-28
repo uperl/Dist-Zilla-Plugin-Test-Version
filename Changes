@@ -1,6 +1,9 @@
 Revision history for Dist-Zilla-Plugin-Test-Version
 
 {{$NEXT}}
+  - Make this test an author test rather than a release test. This is a test
+    you want passing on every commit, not just before a release. GH #4 [Dave
+    Rolsky]
 
 1.04      2015-06-17
   - Added multiple option (requires Test::Version 2.02)
@@ -13,7 +16,7 @@ Revision history for Dist-Zilla-Plugin-Test-Version
     Bug introduced in 1.00 (gh#3)
 
 1.01      2015-05-09
-  - Skip filenmae_match test unless Test::Version 2.00 or better (gh#2) 
+  - Skip filename_match test unless Test::Version 2.00 or better (gh#2) 
 
 1.00      2015-05-06
   - Add support for filename_match property
