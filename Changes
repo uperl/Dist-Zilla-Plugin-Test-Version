@@ -1,6 +1,7 @@
 Revision history for Dist-Zilla-Plugin-Test-Version
 
 {{$NEXT}}
+  - Require Dist::Zilla 5.036
 
 1.08      2016-05-06
   - migrated to Path::Tiny (ether gh#10)
