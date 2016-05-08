@@ -1,6 +1,8 @@
 Revision history for Dist-Zilla-Plugin-Test-Version
 
 {{$NEXT}}
+
+1.09      2016-05-08
   - Require Dist::Zilla 5.036
 
 1.08      2016-05-06
