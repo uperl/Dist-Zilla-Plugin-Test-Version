@@ -52,7 +52,7 @@ Register [Test::Version](https://metacpan.org/pod/Test::Version) as an a develop
 # BUGS
 
 Please report any bugs or feature requests on the bugtracker website
-https://github.com/plicease/dist-zilla-plugin-test-version/issues
+[https://github.com/plicease/dist-zilla-plugin-test-version/issues](https://github.com/plicease/dist-zilla-plugin-test-version/issues)
 
 When submitting a bug or request, please include a test-file or a
 patch to an existing test-file that illustrates the bug or desired
@@ -65,7 +65,7 @@ feature.
 
 # COPYRIGHT AND LICENSE
 
-This software is Copyright (c) 2016 by Caleb Cushing <xenoterracide@gmail.com>.
+This software is Copyright (c) 2017 by Caleb Cushing <xenoterracide@gmail.com>.
 
 This is free software, licensed under:
 
