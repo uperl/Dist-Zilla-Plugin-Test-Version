@@ -1,4 +1,4 @@
-# Dist::Zilla::Plugin::Test::Version [![Build Status](https://secure.travis-ci.org/plicease/Dist-Zilla-Plugin-Test-Version.png)](http://travis-ci.org/plicease/Dist-Zilla-Plugin-Test-Version)
+# Dist::Zilla::Plugin::Test::Version ![linux](https://github.com/uperl/Dist-Zilla-Plugin-Test-Version/workflows/linux/badge.svg)
 
 Author Test::Version tests
 
@@ -6,9 +6,11 @@ Author Test::Version tests
 
 in `dist.ini`
 
-    [Test::Version]
-    is_strict   = 0
-    has_version = 1
+```
+[Test::Version]
+is_strict   = 0
+has_version = 1
+```
 
 # DESCRIPTION
 
@@ -52,7 +54,7 @@ Register [Test::Version](https://metacpan.org/pod/Test::Version) as an a develop
 # BUGS
 
 Please report any bugs or feature requests on the bugtracker website
-[https://github.com/plicease/dist-zilla-plugin-test-version/issues](https://github.com/plicease/dist-zilla-plugin-test-version/issues)
+[https://github.com/uperl/dist-zilla-plugin-test-version/issues](https://github.com/uperl/dist-zilla-plugin-test-version/issues)
 
 When submitting a bug or request, please include a test-file or a
 patch to an existing test-file that illustrates the bug or desired
@@ -65,8 +67,10 @@ feature.
 
 # COPYRIGHT AND LICENSE
 
-This software is Copyright (c) 2017 by Caleb Cushing <xenoterracide@gmail.com>.
+This software is Copyright (c) 2021 by Caleb Cushing <xenoterracide@gmail.com>.
 
 This is free software, licensed under:
 
-    The Artistic License 2.0 (GPL Compatible)
+```
+The Artistic License 2.0 (GPL Compatible)
+```
