@@ -1,4 +1,4 @@
-# Dist::Zilla::Plugin::Test::Version ![linux](https://github.com/uperl/Dist-Zilla-Plugin-Test-Version/workflows/linux/badge.svg) ![macos](https://github.com/uperl/Dist-Zilla-Plugin-Test-Version/workflows/macos/badge.svg) ![windows](https://github.com/uperl/Dist-Zilla-Plugin-Test-Version/workflows/windows/badge.svg) ![cygwin](https://github.com/uperl/Dist-Zilla-Plugin-Test-Version/workflows/cygwin/badge.svg) ![msys2-mingw](https://github.com/uperl/Dist-Zilla-Plugin-Test-Version/workflows/msys2-mingw/badge.svg)
+# Dist::Zilla::Plugin::Test::Version ![linux](https://github.com/uperl/Dist-Zilla-Plugin-Test-Version/workflows/linux/badge.svg) ![macos](https://github.com/uperl/Dist-Zilla-Plugin-Test-Version/workflows/macos/badge.svg) ![windows](https://github.com/uperl/Dist-Zilla-Plugin-Test-Version/workflows/windows/badge.svg) ![cygwin](https://github.com/uperl/Dist-Zilla-Plugin-Test-Version/workflows/cygwin/badge.svg)
 
 Author Test::Version tests
 
@@ -67,7 +67,7 @@ feature.
 
 # COPYRIGHT AND LICENSE
 
-This software is Copyright (c) 2021 by Caleb Cushing <xenoterracide@gmail.com>.
+This software is Copyright (c) 2022 by Caleb Cushing <xenoterracide@gmail.com>.
 
 This is free software, licensed under:
 
